@@ -1,0 +1,23 @@
+Nithin Suresh is a Senior Software Engineer specializing in Agentic AI development, Microsoft 365 Copilot integrations, and SharePoint SPFx solutions. With experience at Exult Global and UST Global, he has delivered enterprise-scale AI automation, multi-agent orchestration, and secure knowledge systems.
+
+Key Highlights:
+
+AI & Automation: Designed Copilot + ServiceNow ITSM workflows, built multi-agent systems using OpenAI Agents SDK, CrewAI, LangChain, and LangGraph.
+
+Microsoft 365 Expertise: Developed SPFx portals with embedded AI assistants, integrated Azure OpenAI for RAG-based semantic search, and automated SharePoint policy management.
+
+DevOps & Cloud: Implemented CI/CD pipelines in GitHub Actions, managed Graph API integrations, and secured AI content with DLP policies in SharePoint & Purview.
+
+Notable Projects:
+
+Microsoft 365 Copilot & ServiceNow – Automated incident lifecycle with pre-ticket knowledge surfacing.
+
+Self Agent (Digital Twin) – Deployed on Hugging Face, capable of answering personal/professional queries.
+
+Technical Skills: Python, TypeScript, JavaScript, multi-agent architectures, prompt chaining, function calling, Azure OpenAI, Semantic Kernel.
+
+Achievements: University Union Councillor, Outstanding Contributor Award at UST Global.
+
+Education: B.Tech in Information Technology – Cochin University of Science and Technology.
+Certifications: Intensive Agentic AI Program, PL-100, Product Management.
+
