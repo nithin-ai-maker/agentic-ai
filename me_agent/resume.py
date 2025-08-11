@@ -8,7 +8,7 @@ load_dotenv(override=True)
 class Me:
     def __init__(self):
         self.openai= OpenAI()
-        self.name='Nithin'
+        self.name='Nithin Suresh'
         reader = PdfReader("me_agent/me/resume.pdf")
         self.resume=''
         for page in reader.pages:
