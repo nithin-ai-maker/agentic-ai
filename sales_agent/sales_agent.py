@@ -71,7 +71,6 @@ async def main():
     tool2= sales_agent2.as_tool(tool_name='sales_agent2',tool_description=description)
     tool3= sales_agent3.as_tool(tool_name='sales_agent3',tool_description=description)
     tools=[tool1,tool2,tool3,send_email]
-
     instructions_sales_manager= "You are a sales manager working for ComplAI. You use the tools given to you to generate cold sales emails. You never generate sales emails yourself; you always use the tools. You try all 3 sales_agent tools once before choosing the best one. You pick the single best email and use the send_email tool to send the best email (adn only the best email) to the user"
 
     Sales_Manager= Agent(name='Sales Manager Agent',instructions=instructions_sales_manager,tools=tools,input_guardrails=[gaurdrail_against_name],model='gpt-4o-mini')
